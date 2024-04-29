@@ -1,0 +1,17 @@
+.color{
+  color:blue;
+}
+.font{
+    font-style: normal;
+    font-size: 125%;
+
+}
+.card1{
+    border: 1px ;
+    padding: 10px;
+    margin: 20px;
+    min-width: 330px;
+}
+.display{
+    display: flex;
+}

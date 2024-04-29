@@ -1,0 +1,25 @@
+.hero{
+
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+}
+
+.left, .right{
+    width: 48%;
+    height: 200px;
+    border: 1px solid red;
+}
+.p-5{
+    padding: 10px;
+    background-color: bisque;
+    text-align: center;
+}
+.display{
+    display: flex;
+}
+.float-rightt{
+    float: right;
+    margin: 10px;
+}
